@@ -16,6 +16,11 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+
+        <!--ingat setiap membuat activity baru harus di daftarkan disini-->
+        <activity android:name=".WithoutParameterActivity"/>
+        <activity android:name=".FormDataActivity"/>
+        <activity android:name=".WithParameterActivity"/>
     </application>
 
 </manifest>
