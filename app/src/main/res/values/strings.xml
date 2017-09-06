@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">IntentExample</string>
+    <string name="intent_btn">Intent Without Parameter</string>
+    <string name="intent_param_btn">Intent With Parameter</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="send_btn">Send Data</string>
+    <string name="without">This is activity after intent without parameter</string>
+    <string name="with">This is activity after intent with parameter</string>
 </resources>
